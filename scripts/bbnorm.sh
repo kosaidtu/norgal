@@ -1,1 +1,0 @@
-bbmap/bbnorm.sh
